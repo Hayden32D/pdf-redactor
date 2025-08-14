@@ -1,0 +1,14 @@
+C:\Users\HDouglas\source\repos\redact_pii\redact_pii\obj\Debug\net8.0\redact_pii.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HDouglas\source\repos\redact_pii\redact_pii\obj\Debug\net8.0\redact_pii.AssemblyInfoInputs.cache
+C:\Users\HDouglas\source\repos\redact_pii\redact_pii\obj\Debug\net8.0\redact_pii.AssemblyInfo.cs
+C:\Users\HDouglas\source\repos\redact_pii\redact_pii\obj\Debug\net8.0\redact_pii.csproj.CoreCompileInputs.cache
+C:\Users\HDouglas\source\repos\redact_pii\redact_pii\bin\Debug\net8.0\redact_pii.exe
+C:\Users\HDouglas\source\repos\redact_pii\redact_pii\bin\Debug\net8.0\redact_pii.deps.json
+C:\Users\HDouglas\source\repos\redact_pii\redact_pii\bin\Debug\net8.0\redact_pii.runtimeconfig.json
+C:\Users\HDouglas\source\repos\redact_pii\redact_pii\bin\Debug\net8.0\redact_pii.dll
+C:\Users\HDouglas\source\repos\redact_pii\redact_pii\bin\Debug\net8.0\redact_pii.pdb
+C:\Users\HDouglas\source\repos\redact_pii\redact_pii\obj\Debug\net8.0\redact_pii.dll
+C:\Users\HDouglas\source\repos\redact_pii\redact_pii\obj\Debug\net8.0\refint\redact_pii.dll
+C:\Users\HDouglas\source\repos\redact_pii\redact_pii\obj\Debug\net8.0\redact_pii.pdb
+C:\Users\HDouglas\source\repos\redact_pii\redact_pii\obj\Debug\net8.0\redact_pii.genruntimeconfig.cache
+C:\Users\HDouglas\source\repos\redact_pii\redact_pii\obj\Debug\net8.0\ref\redact_pii.dll

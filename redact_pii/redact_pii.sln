@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36408.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "redact_pii", "redact_pii\redact_pii.csproj", "{33130CCC-78FC-4D26-BC95-3AED618E6371}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33130CCC-78FC-4D26-BC95-3AED618E6371}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33130CCC-78FC-4D26-BC95-3AED618E6371}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33130CCC-78FC-4D26-BC95-3AED618E6371}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33130CCC-78FC-4D26-BC95-3AED618E6371}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4F6EC12-F4E9-425D-BCE1-CC1FF4AA94F7}
+	EndGlobalSection
+EndGlobal
