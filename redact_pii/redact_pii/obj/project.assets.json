@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HDouglas\\source\\repos\\redact_pii\\redact_pii\\redact_pii.csproj",
+      "projectUniqueName": "c:\\Users\\HDouglas\\OneDrive - Method Automation Services Inc\\Documents\\Summer 2025\\C# Code\\Pii Python\\redact_pii\\redact_pii\\redact_pii.csproj",
       "projectName": "redact_pii",
-      "projectPath": "C:\\Users\\HDouglas\\source\\repos\\redact_pii\\redact_pii\\redact_pii.csproj",
+      "projectPath": "c:\\Users\\HDouglas\\OneDrive - Method Automation Services Inc\\Documents\\Summer 2025\\C# Code\\Pii Python\\redact_pii\\redact_pii\\redact_pii.csproj",
       "packagesPath": "C:\\Users\\HDouglas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HDouglas\\source\\repos\\redact_pii\\redact_pii\\obj\\",
+      "outputPath": "c:\\Users\\HDouglas\\OneDrive - Method Automation Services Inc\\Documents\\Summer 2025\\C# Code\\Pii Python\\redact_pii\\redact_pii\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
